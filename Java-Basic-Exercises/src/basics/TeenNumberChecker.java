@@ -1,3 +1,5 @@
+package basics;
+
 /*********************************************************CODE EXERCISE 7: TEEN NUMBER CHECKER*********************************************************
  Description Exercise:
  - We'll say that a number is "teen" if it is in the range 13 - 19 (inclusive).

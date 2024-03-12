@@ -1,3 +1,5 @@
+package basics;
+
 /***********************************************************CODE EXERCISE 6: EQUAL SUM CHECKER**********************************************************
  Description Exercise:
  - Write a method hasEqualSum with 3 parameters of type int

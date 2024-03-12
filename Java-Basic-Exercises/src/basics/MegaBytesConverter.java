@@ -1,3 +1,5 @@
+package basics;
+
 /********************************************CODE EXERCISE 2: MEGABYTES CONVERTER****************************************************************
 
  Description Exercise:

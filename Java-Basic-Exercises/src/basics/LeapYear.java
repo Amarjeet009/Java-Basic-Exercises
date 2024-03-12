@@ -1,3 +1,5 @@
+package basics;
+
 /**************************************************CODE EXERCISE 4: LEAP YEAR CALCULATOR***************************************************************
  Description Exercise:
  - Write a method isLeapYear with a parameter of type int named year.

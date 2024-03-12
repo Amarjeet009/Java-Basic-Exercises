@@ -1,3 +1,5 @@
+package basics;
+
 /*******************************************************CODE EXERCISE 5: DECIMAL COMPARATOR*************************************************************
  Description Exercise:
  - Write a method areEqualByThreeDecimalPlaces with two parameters of type double

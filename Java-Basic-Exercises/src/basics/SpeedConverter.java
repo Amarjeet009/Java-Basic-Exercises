@@ -1,3 +1,5 @@
+package basics;
+
 /****************************************************CODE EXERCISE 1: SPEED CONVERTER ****************************************************************
  Description Exercise:
  First method:     Write a method called toMilesPerHur that has 1 parameter of type double with the name kiloMetersPerHour.
@@ -31,7 +33,7 @@ class SpeedConverter {
         }
         else {
             long milesPerHour = toMilesPerHour(kilometersPerHour);
-            System.out.println(kilometersPerHour + " km/h = " + milesPerHour + " mi/h");
+            System.out.println(" Kilo meters per hour | "+ kilometersPerHour + " km/h = " + milesPerHour + " mi/h");
         }
     }
 
