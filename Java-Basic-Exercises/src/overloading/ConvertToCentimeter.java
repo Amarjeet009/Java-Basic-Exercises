@@ -3,7 +3,11 @@ package overloading;
 /******************************************************
  * methods having same name but different in parameters, it is known as Method Overloading
  ********************************************************/
-public class MethodOverloadingExample2 {
+
+/**
+ * @author Amarjeet Rao
+ */
+public class ConvertToCentimeter {
 
     public static double convertToCentimeter(int inches) {
         return  inches * 2.54;

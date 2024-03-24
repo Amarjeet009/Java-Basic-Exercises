@@ -3,7 +3,11 @@ package overloading;
 /******************************************************
  * methods having same name but different in parameters, it is known as Method Overloading
  ********************************************************/
-public class MethodOverloadingExample1 {
+
+/**
+ * @author Amarjeet Rao 
+ */
+public class ClculateValues {
 
     public  static  int calculateValues(int firstvalue, int secondvalue) {
         System.out.println("First Value | " + firstvalue + "  Second Value | " + secondvalue);
